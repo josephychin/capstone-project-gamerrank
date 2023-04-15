@@ -1,3 +1,15 @@
+![3](https://user-images.githubusercontent.com/37349912/232196985-1c765c52-2829-40e7-9749-24709ddb90f5.png)
+![4](https://user-images.githubusercontent.com/37349912/232196992-b22b2e54-d8b7-4374-ba92-dd6e96150ce8.png)
+![5](https://user-images.githubusercontent.com/37349912/232196994-24ae351d-dc3f-4024-ad58-f8c99c4ae78e.png)
+![6](https://user-images.githubusercontent.com/37349912/232196996-f0d523ce-ead5-4df2-9fe7-6e15f223ca2b.png)
+![7](https://user-images.githubusercontent.com/37349912/232196998-6999cdc2-e177-4806-82cd-86149838f00b.png)
+![8](https://user-images.githubusercontent.com/37349912/232197000-51020946-8129-4f0e-9bda-f3391b823e57.png)
+![9](https://user-images.githubusercontent.com/37349912/232197002-35f9dd87-5236-44a1-8a8d-a483cbc4e855.png)
+![10](https://user-images.githubusercontent.com/37349912/232197003-ba7aee52-cf96-4f29-bca9-abd4e5008836.png)
+![1](https://user-images.githubusercontent.com/37349912/232197004-4d8890c0-9b1c-42d6-9b0b-d72d43ded83e.png)
+![2](https://user-images.githubusercontent.com/37349912/232197005-4d0f5b81-1007-4779-be72-f7fdc4a7faca.png)
+
+
 # ATA-Capstone-Project
 
 Follow the instructions in the course for completing the group Capstone project.
